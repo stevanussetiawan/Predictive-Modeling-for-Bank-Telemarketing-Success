@@ -6,7 +6,7 @@ Project ini menggunakan <b>Logistic Regression, Random Forest Classifier, dan XG
 
 ## Overview
 
-Pada repo ini terbagi menjadi lima bagian:
+Pada Project ini terbagi menjadi lima bagian:
 
 1. Data cleaning and exploratory analysis
 2. Modelling
